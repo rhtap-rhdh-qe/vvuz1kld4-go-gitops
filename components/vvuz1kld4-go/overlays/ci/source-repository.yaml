@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vvuz1kld4-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vvuz1kld4-go
